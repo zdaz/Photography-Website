@@ -27,7 +27,7 @@ ul.nav {
 /* Figure a way to get only the leads to show and have the smaller options as a drop down menu.*/
 
 
-.btn-small {
+#btn-small {
   color: #FFFFFF;
   background: #000000 url() no-repeat right top;
   padding: 5px 8px;
@@ -48,6 +48,7 @@ ul.nav {
   text-transform: uppercase;
   font-size: 10px;
   float: bottom;
+  padding-bottom: none;
 }
 /* Copyright is fine for now, good to have centered on the bottom of the page where it is, font-size looks fine as well.*/
 
@@ -60,8 +61,8 @@ ul.nav {
   margin: 0 0 2px 3.5px;
 }
 
-.image {
-	float:;
+.recent {
+
 }
 
 
